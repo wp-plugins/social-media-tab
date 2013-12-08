@@ -1,6 +1,6 @@
 === Social Media Tab ===
 Contributors: wuSEO
-Tags: social, widget, icons, links, bookmarking, bookmarks, bookmark, profile, profiles, facebook, google+, google, googleplus, google plus, plus, buzz, twitter, rss, newsletter, delicious, picasa, flickr, youtube, vimeo, goldenline, lastfm, digg, myspace, linkedin, orkut, blip.fm, deviantart, friendconnect, friendfeed, tumblr, pinterest
+Tags: social, widget, icons, social slider, facebook slider, facebook tab, tabs, links, bookmarking, bookmarks, bookmark, profile, profiles, facebook, google+, google, googleplus, google plus, plus, buzz, twitter, rss, newsletter, delicious, picasa, flickr, youtube, vimeo, goldenline, lastfm, digg, myspace, linkedin, orkut, blip.fm, deviantart, friendconnect, friendfeed, tumblr, pinterest
 Requires at least: 2.9.0
 Tested up to: 3.7.1
 Stable tag: 1.0.2
