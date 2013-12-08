@@ -1,10 +1,12 @@
 === Social Media Tab ===
 Contributors: wuSEO
-Tags: social, widget, icons, social slider, facebook slider, facebook tab, tabs, links, bookmarking, bookmarks, bookmark, profile, profiles, facebook, google+, google, googleplus, google plus, plus, buzz, twitter, rss, newsletter, delicious, picasa, flickr, youtube, vimeo, goldenline, lastfm, digg, myspace, linkedin, orkut, blip.fm, deviantart, friendconnect, friendfeed, tumblr, pinterest
+Tags: social, AIM, ASK, Bebo, Betvibes, Blinklist, Blogger, Buzz, Delicious, DeviantArt, Digg, diigo, Everynote, Facebook, Flickr, Friendfeed, Friendster, Furl, Google, Lastfm, Linkedin, Livejournal, Mixx,  Myspace, Newsvine, Orkut, Plaxo, Plurk, Posterous, Reddit, RSS service, Shoutwire, Spurl, Squidoo, Stumbleupon, Technorati, Tumblr, Twitter, Vimeo, Xanga, Youtube, Yahoo, widget, icons, social slider, facebook slider, facebook tab, tabs, links, bookmarking, bookmarks, bookmark, profile, profiles, facebook, google+, google, googleplus, google plus, plus, buzz, twitter, rss, newsletter, delicious, picasa, flickr, youtube, vimeo, goldenline, lastfm, digg, myspace, linkedin, orkut, blip.fm, deviantart, friendconnect, friendfeed, tumblr, pinterest
 Requires at least: 2.9.0
 Tested up to: 3.7.1
 Stable tag: 1.0.2
  
+    
+
  
 The Social Media Tab plugin display on your blog boxes that has links to your profiles on social sites 
 
