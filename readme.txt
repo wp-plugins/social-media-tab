@@ -3,7 +3,7 @@ Contributors: wuSEO
 Tags: social, widget, icons, links, bookmarking, bookmarks, bookmark, profile, profiles, facebook, google+, google, googleplus, google plus, plus, buzz, twitter, rss, newsletter, delicious, picasa, flickr, youtube, vimeo, goldenline, lastfm, digg, myspace, linkedin, orkut, blip.fm, deviantart, friendconnect, friendfeed, tumblr, pinterest
 Requires at least: 2.9.0
 Tested up to: 3.7.1
-Stable tag: 1.0
+Stable tag: 1.0.2
  
  
 The Social Media Tab plugin display on your blog boxes that has links to your profiles on social sites 
@@ -74,4 +74,12 @@ Social Media Tab can be easily customized. You can set such options as:
 = 1.0 =
 
 * First version of the plugin
+
+= 1.0.1 =
+
+* Some fixes
+ 
+= 1.0.2 =
+
+* Images fix
  
