@@ -5,7 +5,7 @@ Requires at least: 2.9.0
 Tested up to: 3.7.1
 Stable tag: 1.0.2
  
-    
+     
 
  
 The Social Media Tab plugin display on your blog boxes that has links to your profiles on social sites 
@@ -68,7 +68,7 @@ Social Media Tab supports these social sites:
 Social Media Tab can be easily customized. You can set such options as:
 
 - Width and height px of icons
-- Vertical position on the screen
+- Horizontal position on the screen
 - Left or right side of the screen   
  
 == Changelog ==
